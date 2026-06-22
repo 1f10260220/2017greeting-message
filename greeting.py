@@ -14,3 +14,4 @@ def greet():
 
 
 greet_name('Inoue')
+greet()
