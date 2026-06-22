@@ -1,4 +1,4 @@
-def greet(name):
+def greet_name(name):
     message = 'Hello, ' + name + '-san!'
 from datetime import datetime
 
@@ -13,4 +13,4 @@ def greet():
     print(message)
 
 
-greet('Inoue')
+greet_name('Inoue')
